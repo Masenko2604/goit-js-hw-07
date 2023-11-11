@@ -50,3 +50,5 @@ function createGalleryItemsMarkup(items) {
     })
     .join('');
 }
+
+
